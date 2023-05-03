@@ -1,0 +1,14 @@
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+.card-container {
+  text-align: center;
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  padding: 40px;
+  border-radius: 6px;
+}
